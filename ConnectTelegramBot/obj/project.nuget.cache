@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rwpMdrJeVgAL4ErRR0yHlTIjzU1Apqh6EQT34xRnPq3fQdWjvxEMB/f9agXbnXExh3WSxxbTmn59zTkSolqZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\N0srati\\Desktop\\Instagram Bot\\ConnectTelegramBot\\ConnectTelegramBot\\ConnectTelegramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N0srati\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\N0srati\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\N0srati\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\N0srati\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
